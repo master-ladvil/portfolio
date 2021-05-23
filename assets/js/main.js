@@ -100,7 +100,7 @@ let footer = $(`
       <a href="#" class="linkedin sub-footer-icon">
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="#" class="git sub-footer-icon">
+        <a href="https://github.com/horisapien/portfolio" class="git sub-footer-icon">
           <i class="fab fa-github"></i>
         </a>
         <a href="#" class="twitter sub-footer-icon">
